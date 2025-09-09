@@ -1,5 +1,4 @@
 🔗 Live Link
 
-    # Weather App 🌦️
+https://weather-api-yukti.netlify.app/
 
-Live Demo: [Click here](https://weather-api-yukti.netlify.app/)
